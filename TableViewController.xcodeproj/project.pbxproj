@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3EBE137323C8CE9B007D479E /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EBE137223C8CE9B007D479E /* CustomTableViewCell.xib */; };
 		7B42EB2723C75B8D002ED1C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B42EB2623C75B8D002ED1C4 /* AppDelegate.swift */; };
 		7B42EB2923C75B8D002ED1C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B42EB2823C75B8D002ED1C4 /* ViewController.swift */; };
 		7B42EB2C23C75B8D002ED1C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B42EB2A23C75B8D002ED1C4 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3EBE137223C8CE9B007D479E /* CustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
 		7B42EB2323C75B8D002ED1C4 /* TableViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B42EB2623C75B8D002ED1C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B42EB2823C75B8D002ED1C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7B42EB2D23C75B90002ED1C4 /* Assets.xcassets */,
 				7B42EB2F23C75B90002ED1C4 /* LaunchScreen.storyboard */,
 				7B42EB3223C75B90002ED1C4 /* Info.plist */,
+				3EBE137223C8CE9B007D479E /* CustomTableViewCell.xib */,
 			);
 			path = TableViewController;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				7B42EB3123C75B90002ED1C4 /* LaunchScreen.storyboard in Resources */,
 				7B42EB2E23C75B90002ED1C4 /* Assets.xcassets in Resources */,
+				3EBE137323C8CE9B007D479E /* CustomTableViewCell.xib in Resources */,
 				7B42EB2C23C75B8D002ED1C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
